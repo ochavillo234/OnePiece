@@ -1,0 +1,51 @@
+h1{
+	text-align: center;
+	padding: 20px;
+}
+p{
+	text-align: center;
+	padding: 20px;
+}
+ol{
+	padding: 10px;
+}
+ul{
+	padding:10px;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.center{
+	margin-left:auto;
+	margin-right:auto;
+}
+th{
+	background-color:;
+}
+td{
+	background-color:;
+}
+form{
+	text-align:center;
+	background-color:blue;
+	padding:20px;
+}
+
+body {
+  background-image: url("wano.jpg");
+}
+
+nav{
+	border-inline:hotpink dashed 8px;	
+}
+
+ol li, ul li {
+    color: black;
+    font-size: 1.5rem;
+    margin: 10px 0;  /* Adds spacing between list items */
+    font-weight: bold;  /* Makes the text bold */
+}
+
